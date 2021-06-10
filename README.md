@@ -17,7 +17,7 @@
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://tryhackme.com/p/ajriju" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="plutonhacker" height="40" width="40" /></a>
+<a href="https://tryhackme.com/p/ajriju" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="plutonhacker" height="40" width="60" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/konkomaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/plutonhacker/" height="30" width="40" /></a><a href="https://www.instagram.com/plutonhacker/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="plutonhacker" height="30" width="40" /></a>
 <a href="https://twitter.com/plutonhacker" target="blank"><img align="center" src="https://i.pinimg.com/originals/5c/a9/8c/5ca98c73b2bb7a02bf8350933c7ca443.png" alt="plutonhacker" height="40" width="40" /></a>
     
